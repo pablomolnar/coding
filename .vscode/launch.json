@@ -2,6 +2,26 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RotatedSortedArray",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "RotatedSortedArray",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotatedSortedArray",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "random.RotatedSortedArray",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TimeToAngle",
             "request": "launch",
             "cwd": "${workspaceFolder}",

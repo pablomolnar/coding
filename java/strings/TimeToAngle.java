@@ -1,3 +1,5 @@
+package strings;
+
 import java.util.Map;
 
 // Given a time, calculate the angle between the hour and minute hands
