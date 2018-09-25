@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LinkedList",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "github.com.pablomolnar.coding.java.linkedlist.LinkedList",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RotatedSortedArray",
             "request": "launch",
             "cwd": "${workspaceFolder}",
